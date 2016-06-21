@@ -2,7 +2,7 @@
     "name": "zero1/magento2-contact-form-plus",
     "description": "Magento 2 module to allow storage and management of submitted contact forms",
     "require": {
-        "php": "~5.4.11|~5.5.0",
+        "php": "~5.4.11|~5.5.0|~5.6",
         "magento/magento-composer-installer": "*",
         "magento/module-contact": "1.0.0-beta"
     },
